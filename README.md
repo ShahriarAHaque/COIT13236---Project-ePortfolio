@@ -3,6 +3,8 @@ Shahriar's ePortfolio for Bridging The Digital Divide Project Reflection
 
 
 | Role: Product Support Manager OV-PMA-003 |
+My job was to be incharge of power and hardware and to research the solar and battery requirements of the mesh network
+and also considerother hardware options that may benefit this project. 
 
 Evidence is provided here of the following objectives:
 1. Research a power delivery choice
