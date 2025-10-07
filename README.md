@@ -15,3 +15,5 @@ Evidence is provided here of the following objectives:
 - As a Product Support Manager, I co-wrote a section related to hardware to help with community training.
 4. Explore other solutions to improve to improve the project
 - As a Product Support Manager, I wrote a [Satelite Connectivity Guide](Direct%20Satellite%20Connectivity%20-%20Research%20&%20Trouble%20Shooting.docx) for the implementation of Satelite connectivity to explore other options.
+5. I Show confidence and skills in oral communications and presentations
+- As a Product Support Manager, I gave a part in a team presenation for our product
